@@ -1,0 +1,49 @@
+2024-03-05 17:11:39.149 +02:00 [INF] ["2024-03-05T17:11:39.1317221+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:11:39.149 +02:00 [INF] ["2024-03-05T17:11:39.1320879+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:11:39.149 +02:00 [INF] ["2024-03-05T17:11:39.1314441+02:00"]: [Thread 1] Shared data: 0, Square: 1, Logarithm: 0
+2024-03-05 17:11:40.192 +02:00 [INF] ["2024-03-05T17:11:40.1925658+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:11:40.693 +02:00 [INF] ["2024-03-05T17:11:40.6933029+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:11:41.194 +02:00 [INF] ["2024-03-05T17:11:41.1940922+02:00"]: [Async] Shared data: 1, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:11:41.194 +02:00 [INF] ["2024-03-05T17:11:41.1940956+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:11:42.199 +02:00 [INF] ["2024-03-05T17:11:42.1989906+02:00"]: [Thread 1] Shared data: 1, Square: 4, Logarithm: 0.6931471805599453
+2024-03-05 17:11:42.199 +02:00 [INF] ["2024-03-05T17:11:42.1989905+02:00"]: [Thread 2] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:11:43.197 +02:00 [INF] ["2024-03-05T17:11:43.1970690+02:00"]: [Async] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:11:43.212 +02:00 [INF] ["2024-03-05T17:11:43.2129543+02:00"]: [Thread 1] Shared data: 2, Square: 4, Logarithm: 0.6931471805599453
+2024-03-05 17:11:43.711 +02:00 [INF] ["2024-03-05T17:11:43.7115227+02:00"]: [Thread 2] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:11:45.212 +02:00 [INF] ["2024-03-05T17:11:45.2120672+02:00"]: [Async] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:11:45.228 +02:00 [INF] ["2024-03-05T17:11:45.2280038+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:11:47.218 +02:00 [INF] ["2024-03-05T17:11:47.2184511+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:12:06.167 +02:00 [INF] ["2024-03-05T17:12:06.1573334+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:12:06.167 +02:00 [INF] ["2024-03-05T17:12:06.1560157+02:00"]: [Thread 1] Shared data: 0, Square: 1, Logarithm: 0
+2024-03-05 17:12:06.167 +02:00 [INF] ["2024-03-05T17:12:06.1576277+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:12:07.208 +02:00 [INF] ["2024-03-05T17:12:07.2080150+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:12:07.707 +02:00 [INF] ["2024-03-05T17:12:07.7074409+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:12:08.207 +02:00 [INF] ["2024-03-05T17:12:08.2076657+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:12:08.223 +02:00 [INF] ["2024-03-05T17:12:08.2231556+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:12:09.217 +02:00 [INF] ["2024-03-05T17:12:09.2172352+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:12:09.232 +02:00 [INF] ["2024-03-05T17:12:09.2327426+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:12:10.211 +02:00 [INF] ["2024-03-05T17:12:10.2119561+02:00"]: [Async] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:12:10.242 +02:00 [INF] ["2024-03-05T17:12:10.2429661+02:00"]: [Thread 1] Shared data: 2, Square: 4, Logarithm: 0.6931471805599453
+2024-03-05 17:12:10.727 +02:00 [INF] ["2024-03-05T17:12:10.7278757+02:00"]: [Thread 2] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:12:12.221 +02:00 [INF] ["2024-03-05T17:12:12.2219228+02:00"]: [Async] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:12:12.237 +02:00 [INF] ["2024-03-05T17:12:12.2378946+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:12:14.226 +02:00 [INF] ["2024-03-05T17:12:14.2267185+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:18.303 +02:00 [INF] ["2024-03-05T17:16:18.2944996+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:18.303 +02:00 [INF] ["2024-03-05T17:16:18.2950045+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:18.303 +02:00 [INF] ["2024-03-05T17:16:18.2943785+02:00"]: [Thread 1] Shared data: 0, Square: 1, Logarithm: 0
+2024-03-05 17:16:19.351 +02:00 [INF] ["2024-03-05T17:16:19.3517944+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:16:19.852 +02:00 [INF] ["2024-03-05T17:16:19.8523604+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:20.352 +02:00 [INF] ["2024-03-05T17:16:20.3520172+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:20.367 +02:00 [INF] ["2024-03-05T17:16:20.3669840+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:16:21.362 +02:00 [INF] ["2024-03-05T17:16:21.3629129+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:21.378 +02:00 [INF] ["2024-03-05T17:16:21.3789120+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:16:22.366 +02:00 [INF] ["2024-03-05T17:16:22.3663153+02:00"]: [Async] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:16:22.381 +02:00 [INF] ["2024-03-05T17:16:22.3818879+02:00"]: [Thread 1] Shared data: 2, Square: 4, Logarithm: 0.6931471805599453
+2024-03-05 17:16:22.865 +02:00 [INF] ["2024-03-05T17:16:22.8657377+02:00"]: [Thread 2] Shared data: 1, Square: 1, Logarithm: 0
+2024-03-05 17:16:24.378 +02:00 [INF] ["2024-03-05T17:16:24.3785471+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:24.378 +02:00 [INF] ["2024-03-05T17:16:24.3785471+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 17:16:26.384 +02:00 [INF] ["2024-03-05T17:16:26.3842481+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 19:38:50.656 +02:00 [INF] ["2024-03-05T19:38:50.6401123+02:00"]: [Thread 2] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 19:38:50.656 +02:00 [INF] ["2024-03-05T19:38:50.6400872+02:00"]: [Thread 1] Shared data: 0, Square: 1, Logarithm: 0
+2024-03-05 19:38:50.656 +02:00 [INF] ["2024-03-05T19:38:50.6408213+02:00"]: [Async] Shared data: 0, Square: 0, Logarithm: "-Infinity"
+2024-03-05 19:38:51.719 +02:00 [INF] ["2024-03-05T19:38:51.7199425+02:00"]: [Thread 1] Shared data: 1, Square: 1, Logarithm: 0

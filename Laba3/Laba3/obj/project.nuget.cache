@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2zV/jf/GRwTjKzjr/SGyp1xhjxQcBtMJG/7ihnbo/gUZcCOYeBZf/uRzbMPblY+3LSLChJNGbHOtxiLXLAy5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\3 КУРС\\2 семестр\\Розробка адаптивних web-інтерфейсів\\Laba3\\Laba3\\Laba3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skivk\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\skivk\\.nuget\\packages\\serilog.sinks.console\\5.0.1\\serilog.sinks.console.5.0.1.nupkg.sha512",
+    "C:\\Users\\skivk\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
